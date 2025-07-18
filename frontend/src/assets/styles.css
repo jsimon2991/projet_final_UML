@@ -1,0 +1,11 @@
+body { background: #f7f7fa; margin: 0; font-family: 'Inter', sans-serif; }
+.container { max-width: 900px; margin: 40px auto; }
+.matches-list { display: flex; flex-wrap: wrap; gap: 32px; margin-top: 34px; }
+.pet-card { width: 270px; border-radius: 20px; box-shadow: 0 3px 20px #c026d340; background: #fff; padding: 20px 12px; }
+.pet-img { width: 95%; border-radius: 16px; object-fit: cover; height: 160px; }
+
+.profile-container { max-width: 470px; margin: 50px auto; }
+.profile-card { background: #fff; border-radius: 18px; box-shadow: 0 3px 18px #d1d1fa23; padding: 40px; }
+.profile-form .field { display: flex; margin-bottom: 18px; }
+.profile-form label { width: 160px; font-weight: 600; color: #a67be8; }
+.profile-form span { flex: 1; color: #18191b; }
